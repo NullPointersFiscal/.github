@@ -1,4 +1,4 @@
-# NullPointersFiscal Organization
+# Null Pointers Organization
 
 Welcome to **NullPointersFiscal**, a collaborative software development organization dedicated to advancing programming knowledge through hands-on project experience and peer learning.
 
