@@ -1,65 +1,65 @@
-# NullPointersFiscal Organization Repository
+# Repositório da Organização NullPointersFiscal
 
-This repository contains the organizational configuration and community health files for the **NullPointersFiscal** organization.
+Este repositório contém a configuração organizacional e arquivos de saúde da comunidade para a organização **NullPointersFiscal**.
 
-## 📋 Repository Purpose
+## 📋 Propósito do Repositório
 
-This special `.github` repository serves as the central hub for:
+Este repositório especial `.github` serve como centro principal para:
 
-- **Organization Profile**: Public-facing information about NullPointersFiscal displayed on our GitHub organization page
-- **Community Standards**: Templates and guidelines for issues, pull requests, and contributions
-- **Organizational Policies**: Code of conduct, contributing guidelines, and project standards
-- **Workflow Templates**: Reusable GitHub Actions workflows for consistent project automation
+- **Perfil da Organização**: Informações públicas sobre NullPointersFiscal exibidas na nossa página da organização GitHub
+- **Padrões da Comunidade**: Modelos e diretrizes para issues, pull requests e contribuições
+- **Políticas Organizacionais**: Código de conduta, diretrizes de contribuição e padrões de projeto
+- **Modelos de Workflow**: Workflows reutilizáveis do GitHub Actions para automação consistente de projetos
 
-## 🎯 About NullPointersFiscal
+## 🎯 Sobre NullPointersFiscal
 
-NullPointersFiscal is a collaborative software development organization focused on advancing programming knowledge through practical, hands-on project experience. Our team of four dedicated developers works together on study projects designed to enhance programming skills and foster collaborative development practices.
+NullPointersFiscal é uma organização colaborativa de desenvolvimento de software focada em avançar o conhecimento em programação através de experiência prática e prática em projetos. Nossa equipe de quatro desenvolvedores dedicados trabalha em conjunto em projetos de estudo projetados para melhorar habilidades de programação e fomentar práticas de desenvolvimento colaborativo.
 
-### Our Mission
-- **Practical Learning**: Apply programming concepts through real-world project implementation
-- **Collaborative Development**: Enhance teamwork and code review skills through joint projects
-- **Knowledge Sharing**: Create an environment for continuous learning and skill exchange
-- **Professional Growth**: Develop proficiency in industry-standard practices and methodologies
+### Nossa Missão
+- **Aprendizado Prático**: Aplicar conceitos de programação através de implementação de projetos do mundo real
+- **Desenvolvimento Colaborativo**: Melhorar habilidades de trabalho em equipe e revisão de código através de projetos conjuntos
+- **Compartilhamento de Conhecimento**: Criar um ambiente para aprendizado contínuo e troca de habilidades
+- **Crescimento Profissional**: Desenvolver proficiência em práticas e metodologias padrão da indústria
 
-## 👥 Team Members
+## 👥 Membros da Equipe
 
-- **Gustavo** - Software Developer & Collaborator
-- **Filipe** - Software Developer & Collaborator
-- **Lorenzo** - Software Developer & Collaborator
-- **Rafael** - Software Developer & Collaborator
+- **Gustavo** - Desenvolvedor de Software e Colaborador
+- **Filipe** - Desenvolvedor de Software e Colaborador
+- **Lorenzo** - Desenvolvedor de Software e Colaborador
+- **Rafael** - Desenvolvedor de Software e Colaborador
 
-## 📁 Resources
+## 📁 Recursos
 
-Access our comprehensive project resources and documentation:
+Acesse nossos recursos abrangentes de projeto e documentação:
 
-🔗 **[Shared Drive - Project Resources](https://drive.google.com/drive/u/0/folders/0ANpbob68Lb9pUk9PVA)**
+🔗 **[Drive Compartilhado - Recursos do Projeto](https://drive.google.com/drive/u/0/folders/0ANpbob68Lb9pUk9PVA)**
 
-## 📂 Repository Structure
+## 📂 Estrutura do Repositório
 
 ```
 .github/
 ├── profile/
-│   └── README.md          # Organization profile (public-facing)
-├── ISSUE_TEMPLATE/        # Issue templates (planned)
-├── PULL_REQUEST_TEMPLATE/ # PR templates (planned)
-├── workflows/             # Workflow templates (planned)
-└── README.md             # This file
+│   └── README.md          # Perfil da organização (público)
+├── ISSUE_TEMPLATE/        # Modelos de issue (planejado)
+├── PULL_REQUEST_TEMPLATE/ # Modelos de PR (planejado)
+├── workflows/             # Modelos de workflow (planejado)
+└── README.md             # Este arquivo
 ```
 
-## 🛠 Development Standards
+## 🛠 Padrões de Desenvolvimento
 
-This repository maintains organizational standards for:
+Este repositório mantém padrões organizacionais para:
 
-- Code quality and review processes
-- Documentation requirements
-- Project structure guidelines
-- Contribution workflows
-- Testing and deployment practices
+- Processos de qualidade e revisão de código
+- Requisitos de documentação
+- Diretrizes de estrutura de projeto
+- Fluxos de trabalho de contribuição
+- Práticas de teste e implantação
 
-## 📞 Contact & Collaboration
+## 📞 Contato e Colaboração
 
-For questions about our organization, projects, or collaboration opportunities, please reach out to any of our team members through GitHub or refer to our shared documentation.
+Para perguntas sobre nossa organização, projetos ou oportunidades de colaboração, entre em contato com qualquer um dos nossos membros da equipe através do GitHub ou consulte nossa documentação compartilhada.
 
 ---
 
-*Empowering collaborative learning through hands-on software development.*
+*Capacitando aprendizado colaborativo através de desenvolvimento prático de software.*
